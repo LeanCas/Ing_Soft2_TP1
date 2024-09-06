@@ -103,3 +103,4 @@ C:\Users\Bruno Casavalle\Desktop\Ing-soft2\test_tienda_productos\Test_Tienda_XUn
 C:\Users\Bruno Casavalle\Desktop\Ing-soft2\test_tienda_productos\Test_Tienda_XUnit\obj\Debug\net8.0\Test_Tienda_XUnit.pdb
 C:\Users\Bruno Casavalle\Desktop\Ing-soft2\test_tienda_productos\Test_Tienda_XUnit\obj\Debug\net8.0\Test_Tienda_XUnit.genruntimeconfig.cache
 C:\Users\Bruno Casavalle\Desktop\Ing-soft2\test_tienda_productos\Test_Tienda_XUnit\obj\Debug\net8.0\ref\Test_Tienda_XUnit.dll
+C:\Users\Bruno Casavalle\Desktop\Ing-soft2\test_tienda_productos\Test_Tienda_XUnit\obj\Debug\net8.0\Test_Tienda_XUnit.sourcelink.json

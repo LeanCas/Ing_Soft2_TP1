@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3D10F83-3496-45F6-88A4-DFA38A2478A2}|Test_Tienda_XUnit\\Test_Tienda_XUnit.csproj|c:\\users\\bruno casavalle\\desktop\\ing-soft2\\test_tienda_productos\\test_tienda_xunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3D10F83-3496-45F6-88A4-DFA38A2478A2}|Test_Tienda_XUnit\\Test_Tienda_XUnit.csproj|solutionrelative:test_tienda_xunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{256AF8E3-A15D-4A7E-ABE8-8ECA73908730}|test_tienda_productos\\test_tienda_productos.csproj|c:\\users\\bruno casavalle\\desktop\\ing-soft2\\test_tienda_productos\\test_tienda_productos\\clases\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{256AF8E3-A15D-4A7E-ABE8-8ECA73908730}|test_tienda_productos\\test_tienda_productos.csproj|solutionrelative:test_tienda_productos\\clases\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3D10F83-3496-45F6-88A4-DFA38A2478A2}|Test_Tienda_XUnit\\Test_Tienda_XUnit.csproj|c:\\users\\bruno casavalle\\desktop\\ing-soft2\\test_tienda_productos\\test_tienda_xunit\\productotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D10F83-3496-45F6-88A4-DFA38A2478A2}|Test_Tienda_XUnit\\Test_Tienda_XUnit.csproj|solutionrelative:test_tienda_xunit\\productotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{256AF8E3-A15D-4A7E-ABE8-8ECA73908730}|test_tienda_productos\\test_tienda_productos.csproj|c:\\users\\bruno casavalle\\desktop\\ing-soft2\\test_tienda_productos\\test_tienda_productos\\clases\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{256AF8E3-A15D-4A7E-ABE8-8ECA73908730}|test_tienda_productos\\test_tienda_productos.csproj|solutionrelative:test_tienda_productos\\clases\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256AF8E3-A15D-4A7E-ABE8-8ECA73908730}|test_tienda_productos\\test_tienda_productos.csproj|c:\\users\\bruno casavalle\\desktop\\ing-soft2\\test_tienda_productos\\test_tienda_productos\\clases\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256AF8E3-A15D-4A7E-ABE8-8ECA73908730}|test_tienda_productos\\test_tienda_productos.csproj|solutionrelative:test_tienda_productos\\clases\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{256AF8E3-A15D-4A7E-ABE8-8ECA73908730}|test_tienda_productos\\test_tienda_productos.csproj|c:\\users\\bruno casavalle\\desktop\\ing-soft2\\test_tienda_productos\\test_tienda_productos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,32 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\Test_Tienda_XUnit\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "Test_Tienda_XUnit\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\Test_Tienda_XUnit\\UnitTest1.cs",
-              "RelativeToolTip": "Test_Tienda_XUnit\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Title": "ProductoTests.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\Test_Tienda_XUnit\\ProductoTests.cs",
+              "RelativeDocumentMoniker": "Test_Tienda_XUnit\\ProductoTests.cs",
+              "ToolTip": "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\Test_Tienda_XUnit\\ProductoTests.cs",
+              "RelativeToolTip": "Test_Tienda_XUnit\\ProductoTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T03:33:23.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Tienda.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\test_tienda_productos\\Clases\\Tienda.cs",
               "RelativeDocumentMoniker": "test_tienda_productos\\Clases\\Tienda.cs",
               "ToolTip": "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\test_tienda_productos\\Clases\\Tienda.cs",
               "RelativeToolTip": "test_tienda_productos\\Clases\\Tienda.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T00:12:10.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\test_tienda_productos\\Clases\\Producto.cs",
               "RelativeDocumentMoniker": "test_tienda_productos\\Clases\\Producto.cs",
@@ -64,8 +64,7 @@
               "RelativeToolTip": "test_tienda_productos\\Clases\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T23:56:51.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T23:56:51.441Z"
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "test_tienda_productos\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T23:53:47.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T23:53:47.069Z"
             }
           ]
         }

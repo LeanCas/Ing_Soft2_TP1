@@ -12,3 +12,4 @@ C:\Users\Bruno Casavalle\Desktop\Ing-soft2\test_tienda_productos\test_tienda_pro
 C:\Users\Bruno Casavalle\Desktop\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tienda_productos.pdb
 C:\Users\Bruno Casavalle\Desktop\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tienda_productos.genruntimeconfig.cache
 C:\Users\Bruno Casavalle\Desktop\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\ref\test_tienda_productos.dll
+C:\Users\Bruno Casavalle\Desktop\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tienda_productos.sourcelink.json

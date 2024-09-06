@@ -51,6 +51,14 @@ namespace test_tienda_productos.Clases
             return Productos.Remove(producto);
         }
 
-
+        public float CalcularTotal()
+        {
+            float total = 0;
+            foreach(var producto in Productos)
+            {
+                total += producto.Precio;
+            }
+            return total;
+        }
     }
 }
