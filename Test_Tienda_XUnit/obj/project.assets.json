@@ -5529,11 +5529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\Test_Tienda_XUnit\\Test_Tienda_XUnit.csproj",
+      "projectUniqueName": "C:\\Users\\Bruno Casavalle\\Desktop\\Carrera\\MATERIAS 4to\\Ing-soft2\\test_tienda_productos\\Test_Tienda_XUnit\\Test_Tienda_XUnit.csproj",
       "projectName": "Test_Tienda_XUnit",
-      "projectPath": "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\Test_Tienda_XUnit\\Test_Tienda_XUnit.csproj",
+      "projectPath": "C:\\Users\\Bruno Casavalle\\Desktop\\Carrera\\MATERIAS 4to\\Ing-soft2\\test_tienda_productos\\Test_Tienda_XUnit\\Test_Tienda_XUnit.csproj",
       "packagesPath": "C:\\Users\\Bruno Casavalle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\Test_Tienda_XUnit\\obj\\",
+      "outputPath": "C:\\Users\\Bruno Casavalle\\Desktop\\Carrera\\MATERIAS 4to\\Ing-soft2\\test_tienda_productos\\Test_Tienda_XUnit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruno Casavalle\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5550,8 +5550,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\test_tienda_productos\\test_tienda_productos.csproj": {
-              "projectPath": "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\test_tienda_productos\\test_tienda_productos.csproj"
+            "C:\\Users\\Bruno Casavalle\\Desktop\\Carrera\\MATERIAS 4to\\Ing-soft2\\test_tienda_productos\\test_tienda_productos\\test_tienda_productos.csproj": {
+              "projectPath": "C:\\Users\\Bruno Casavalle\\Desktop\\Carrera\\MATERIAS 4to\\Ing-soft2\\test_tienda_productos\\test_tienda_productos\\test_tienda_productos.csproj"
             }
           }
         }

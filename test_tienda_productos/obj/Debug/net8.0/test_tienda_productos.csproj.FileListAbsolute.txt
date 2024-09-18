@@ -13,3 +13,18 @@ C:\Users\Bruno Casavalle\Desktop\Ing-soft2\test_tienda_productos\test_tienda_pro
 C:\Users\Bruno Casavalle\Desktop\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tienda_productos.genruntimeconfig.cache
 C:\Users\Bruno Casavalle\Desktop\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\ref\test_tienda_productos.dll
 C:\Users\Bruno Casavalle\Desktop\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tienda_productos.sourcelink.json
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\bin\Debug\net8.0\test_tienda_productos.exe
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\bin\Debug\net8.0\test_tienda_productos.deps.json
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\bin\Debug\net8.0\test_tienda_productos.runtimeconfig.json
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\bin\Debug\net8.0\test_tienda_productos.dll
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\bin\Debug\net8.0\test_tienda_productos.pdb
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tienda_productos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tienda_productos.AssemblyInfoInputs.cache
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tienda_productos.AssemblyInfo.cs
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tienda_productos.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tienda_productos.sourcelink.json
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tienda_productos.dll
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\refint\test_tienda_productos.dll
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tienda_productos.pdb
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tienda_productos.genruntimeconfig.cache
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\ref\test_tienda_productos.dll

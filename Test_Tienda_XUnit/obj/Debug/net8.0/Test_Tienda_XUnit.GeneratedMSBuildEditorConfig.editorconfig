@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Test_Tienda_XUnit
-build_property.ProjectDir = C:\Users\Bruno Casavalle\Desktop\Ing-soft2\test_tienda_productos\Test_Tienda_XUnit\
+build_property.ProjectDir = C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\Test_Tienda_XUnit\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

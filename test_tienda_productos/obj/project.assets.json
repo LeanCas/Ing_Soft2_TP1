@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\test_tienda_productos\\test_tienda_productos.csproj",
+      "projectUniqueName": "C:\\Users\\Bruno Casavalle\\Desktop\\Carrera\\MATERIAS 4to\\Ing-soft2\\test_tienda_productos\\test_tienda_productos\\test_tienda_productos.csproj",
       "projectName": "test_tienda_productos",
-      "projectPath": "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\test_tienda_productos\\test_tienda_productos.csproj",
+      "projectPath": "C:\\Users\\Bruno Casavalle\\Desktop\\Carrera\\MATERIAS 4to\\Ing-soft2\\test_tienda_productos\\test_tienda_productos\\test_tienda_productos.csproj",
       "packagesPath": "C:\\Users\\Bruno Casavalle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\test_tienda_productos\\obj\\",
+      "outputPath": "C:\\Users\\Bruno Casavalle\\Desktop\\Carrera\\MATERIAS 4to\\Ing-soft2\\test_tienda_productos\\test_tienda_productos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruno Casavalle\\AppData\\Roaming\\NuGet\\NuGet.Config",

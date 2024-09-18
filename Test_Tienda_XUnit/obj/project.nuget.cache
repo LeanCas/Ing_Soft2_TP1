@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z536YtwupzA=",
+  "dgSpecHash": "EEae/hguctk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruno Casavalle\\Desktop\\Ing-soft2\\test_tienda_productos\\Test_Tienda_XUnit\\Test_Tienda_XUnit.csproj",
+  "projectFilePath": "C:\\Users\\Bruno Casavalle\\Desktop\\Carrera\\MATERIAS 4to\\Ing-soft2\\test_tienda_productos\\Test_Tienda_XUnit\\Test_Tienda_XUnit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno Casavalle\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Bruno Casavalle\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
