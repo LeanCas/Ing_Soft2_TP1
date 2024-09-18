@@ -1,3 +1,4 @@
+using Moq;
 using test_tienda_productos.Clases;
 
 namespace Test_Tienda_XUnit
@@ -90,5 +91,20 @@ namespace Test_Tienda_XUnit
             var total = tienda.CalcularTotal();
             Assert.Equal(300, total);
         }
+
+        [Fact]
+        public void AplicarDescuento()
+        {
+            var mockProducto = new Mock<Producto>("Producto1", 100, "Categoria1");
+            var tienda = new Tienda();
+
+            tienda.AgregarProducto(mockProducto.Object);
+
+            tienda.Aplicar_Descuento("Producto1", 20);
+
+            Assert.Equal(80, mockProducto.Object.Precio);
+
+        }
+
     }
 }

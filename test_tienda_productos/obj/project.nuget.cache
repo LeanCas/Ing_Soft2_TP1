@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9cWuKixnss0=",
+  "dgSpecHash": "68OYJmvEWIE=",
   "success": true,
   "projectFilePath": "C:\\Users\\Bruno Casavalle\\Desktop\\Carrera\\MATERIAS 4to\\Ing-soft2\\test_tienda_productos\\test_tienda_productos\\test_tienda_productos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno Casavalle\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Bruno Casavalle\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\Bruno Casavalle\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

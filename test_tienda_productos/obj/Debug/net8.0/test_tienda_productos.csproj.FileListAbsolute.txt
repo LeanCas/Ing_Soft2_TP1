@@ -28,3 +28,10 @@ C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_prod
 C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tienda_productos.pdb
 C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tienda_productos.genruntimeconfig.cache
 C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\ref\test_tienda_productos.dll
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\bin\Debug\net8.0\Moq.dll
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tienda_productos.csproj.AssemblyReference.cache
+C:\Users\Bruno Casavalle\Desktop\Carrera\MATERIAS 4to\Ing-soft2\test_tienda_productos\test_tienda_productos\obj\Debug\net8.0\test_tie.4FA6BC22.Up2Date

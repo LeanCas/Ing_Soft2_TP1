@@ -60,5 +60,25 @@ namespace test_tienda_productos.Clases
             }
             return total;
         }
+
+        public void Aplicar_Descuento(string nombre, float descuento)
+        {
+            var producto_descuento = BuscarProducto(nombre);
+
+            if(producto_descuento == null)
+            {
+                throw new KeyNotFoundException("Producto no encontrado");
+            }
+
+            if(descuento <= 0)
+            {
+                throw new ArgumentOutOfRangeException(nameof(descuento), "El descuento no puede ser negativo ni cero");
+            }
+
+            var nuevo_precio = producto_descuento.Precio - (producto_descuento.Precio * (descuento / 100));
+
+            producto_descuento.ActualizarPrecio(nuevo_precio);
+
+        }
     }
 }
