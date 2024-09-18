@@ -8,6 +8,11 @@ namespace test_tienda_productos.Clases
 {
     public class Producto
     {
+        
+        public string? Nombre { get; set; }
+        public float Precio { get; set; }
+        public string? Categoria { get; set; }
+
         public Producto(string? nombre, float precio, string? categoria)
         {
             if (precio < 0)
@@ -17,8 +22,15 @@ namespace test_tienda_productos.Clases
             Precio = precio;
             Categoria = categoria;
         }
-        public string? Nombre { get; set; }
-        public float Precio { get; set; }
-        public string? Categoria { get; set; }
+
+        public void ActualizarPrecio(float precio)
+        {
+            if (precio < 0)
+            {
+                throw new ArgumentOutOfRangeException(nameof(precio), "El precio no puede ser negativo");
+            }
+            Precio = precio;
+        }
+
     }
 }

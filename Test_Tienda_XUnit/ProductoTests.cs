@@ -9,6 +9,14 @@ namespace Test_Tienda_XUnit
         {
             Assert.Throws<ArgumentException>(() => new Producto("Producto Invalido", -10, "Categoria"));
         }
+
+        [Fact]
+        public void ActualizarPrecio_ProductoValorNegativo()
+        {
+            var producto = new Producto("Producto Invalido", 10, "Categoria");
+
+            Assert.Throws<ArgumentOutOfRangeException>(() => producto.ActualizarPrecio(-10));
+        }
     }
 
     public class TiendaTests
@@ -46,6 +54,28 @@ namespace Test_Tienda_XUnit
             Producto productoBuscado;
 
             Assert.Throws<KeyNotFoundException>(() => productoBuscado = tienda.BuscarProducto("Producto NO ENCONTRADO"));  
+        }
+
+        [Fact]
+        public void EliminarProducto_EnTienda_Existente()
+        {
+            var tienda = new Tienda();
+            var producto = new Producto("Producto1", 100, "Categoria");
+            tienda.AgregarProducto(producto);
+
+            tienda.EliminarProducto("Producto1");
+
+            Assert.DoesNotContain(producto, tienda.Productos);
+
+        }
+
+        [Fact]
+        public void EliminarProducto_EnTienda_NoExistente()
+        {
+            var tienda = new Tienda();
+
+            Assert.Throws<KeyNotFoundException>(() => tienda.EliminarProducto("Producto1"));
+
         }
 
         [Fact]
